@@ -1,1 +1,1 @@
-Drink Water Notifier Desktop Notifier using Python.
+Drink Water Notification system in python.
