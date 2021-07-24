@@ -12,12 +12,12 @@ if __name__=='__main__':
 
    # on loop run
    while True:
-      notification.notify(
+       notification.notify(
        title=title,
        message=message,
        app_icon=IconURL,
        timeout=5
-      )
-      time.sleep(60*60)
+       )
+       time.sleep(60*60)
 
       
